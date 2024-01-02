@@ -1,1 +1,1 @@
-#This branch has the learnings for JavaScript
+This branch has the learnings for JavaScript
