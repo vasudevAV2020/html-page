@@ -1,2 +1,1 @@
-# html-page
-simple html page
+#This branch has the learnings for JavaScript
